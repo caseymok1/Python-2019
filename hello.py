@@ -1,3 +1,7 @@
+# Learning Python with Git
+# Casey Mok 
+# 10/29/2020
+
 import os
 os.system('clear')
 
